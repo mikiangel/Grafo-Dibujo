@@ -1,0 +1,4 @@
+function prueba()
+{
+    alert("prueba");
+}
