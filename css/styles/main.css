@@ -8,3 +8,34 @@
 .BlueGrey700 { background-color: #455A64; color: #FFFFFF; }
 .BlueGrey800 { background-color: #37474F; color: #FFFFFF; }
 .BlueGrey900 { background-color: #263238; color: #FFFFFF; }
+
+.Blue050 { background-color: #E3F2FD; color: #000000; }
+.Blue100 { background-color: #BBDEFB; color: #000000; }
+.Blue200 { background-color: #90CAF9; color: #000000; }
+.Blue300 { background-color: #64B5F6; color: #000000; }
+.Blue400 { background-color: #42A5F5; color: #000000; }
+.Blue500 { background-color: #2196F3; color: #000000; }
+.Blue600 { background-color: #1E88E5; color: #FFFFFF; }
+.Blue700 { background-color: #1976D2; color: #FFFFFF; }
+.Blue800 { background-color: #1565C0; color: #FFFFFF; }
+.Blue900 { background-color: #0D47A1; color: #FFFFFF; }
+ #DibujoGrafo
+ {
+     padding: 15px;
+     margin: 15px;
+     background-color: #FFFFFF;
+     border: solid 5px #0D47A1;
+ }
+ .Arista
+ {
+    width: auto;
+    padding: 10px;
+    display: table-cell;
+    border: solid 5px #2196F3;
+ }
+ .Nivel
+ {
+     display: table;
+     margin:  0 auto;
+     border-spacing: 15px;
+ }
